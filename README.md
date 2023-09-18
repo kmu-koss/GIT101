@@ -18,6 +18,6 @@ Add: <본인 하고 싶은 말>
 
 <table>
     <tr>
-      <td height="140px" align="center"> <a href="https://github.com/bentshrimp"><img src="https://github.com/bentshrimp.png"/><br/>인생 날로 먹고 싶다..<br/>박진우</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/bentshrimp"><img src="https://github.com/bentshrimp.png"/><br/>인생 날로 먹고 싶다. 아 개피곤하네<br/>박진우</a></td>
     </tr>
 </table>
